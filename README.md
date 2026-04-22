@@ -6,7 +6,7 @@
 I'm a passionate [Your Profession] with a deep love for [Your Interests]. My journey in the world of [Your Field] has been an exciting adventure filled with learning, innovation, and collaboration.
 
 ### Skills
-- **Programming Languages**: [List your programming languages, e.g., Python, JavaScript, Java]
+- **Programming Languages**: Python
 - **Frameworks & Libraries**: [Mention relevant frameworks, e.g., React, Django, TensorFlow]
 - **Tools**: [List tools you're proficient in, e.g., Git, Docker, VS Code]
 
