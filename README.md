@@ -1,6 +1,6 @@
-# \# 👋 Hello, I\&\#39;m FemtoRhythm\!
+# \# 👋 Hello, I'm FemtoRhythm\!
 
-I\&\#39;m a passionate AI Developer with a deep love for Machine Learning, Deep Learning and Data Processing\. My journey in the world of Artificial Intelligence has been an exciting adventure filled with learning, innovation, and collaboration\.
+I'm a passionate AI Developer with a deep love for Machine Learning, Deep Learning and Data Processing. My journey in the world of Artificial Intelligence has been an exciting adventure filled with learning, innovation, and collaboration.\.
 
 \!\[Header\]\(https://picsum\.photos/1200/300\)
 
