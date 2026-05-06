@@ -28,7 +28,7 @@ I am a passionate AI Developer with a deep love for Machine Learning, Deep Learn
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FemtoRhythm&show_icons=true&theme=radical)
 
 ## Get in Touch
-- **Email**: cheng@qq.com
+- **Email**: chengee@qq.com
 
 ---
 
