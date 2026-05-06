@@ -25,7 +25,7 @@ I am a passionate AI Developer with a deep love for Machine Learning, Deep Learn
 - Collaborated with cross\-functional teams to integrate machine learning solutions into real\-world applications, ensuring scalability and alignment with business requirements
 
 ## Stats
-![GitHub Stats](https://stats.justsong.cn/api/github?username=FemtoRhythm)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FemtoRhythm&show_icons=true&theme=radical)
 
 ## Get in Touch
 - **Email**: chengee@qq.com
