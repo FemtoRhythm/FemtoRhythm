@@ -1,42 +1,68 @@
-# 👋 Hello, I'm FemtoRhythm!
+# \# 👋 Hello, I\&\#39;m FemtoRhythm\!
 
-![Header](https://picsum.photos/1200/300)
+I\&\#39;m a passionate AI Developer with a deep love for Machine Learning, Deep Learning and Data Processing\. My journey in the world of Artificial Intelligence has been an exciting adventure filled with learning, innovation, and collaboration\.
+
+\!\[Header\]\(https://picsum\.photos/1200/300\)
 
 ## About Me
-I'm a passionate [Your Profession] with a deep love for [Your Interests]. My journey in the world of [Your Field] has been an exciting adventure filled with learning, innovation, and collaboration.
+
+I\&\#39;m a passionate AI Developer with a deep love for Machine Learning, Deep Learning and Data Processing\. My journey in the world of Artificial Intelligence has been an exciting adventure filled with learning, innovation, and collaboration\.
 
 ### Skills
+
 - **Programming Languages**: Python
-- **Frameworks & Libraries**: [Mention relevant frameworks, e.g., React, Django, TensorFlow]
-- **Tools**: [List tools you're proficient in, e.g., Git, Docker, VS Code]
+
+- **Frameworks \&amp; Libraries**: Scikit\-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy, Matplotlib, Seaborn
+
+- **Tools**: Git, Jupyter Notebook, PyCharm, VS Code, Docker, CUDA
+
+- **Core Competencies**: Machine Learning, Deep Learning, Data Cleaning, Feature Engineering, Data Visualization, Model Training \&amp; Optimization
 
 ### Achievements
-- [Describe your significant achievements, e.g., "Led a project that increased efficiency by 30%"]
-- [Another achievement, e.g., "Published a research paper on [Topic]"]
+
+- Independently completed machine learning classification and regression projects, realizing the entire process of data processing and model accuracy optimization
+
+- Built deep learning models \(image recognition/text classification, etc\.\) based on PyTorch/TensorFlow, completing model training and inference
+
+- Proficient in processing massive data, improving model performance by more than 30% through feature engineering and data cleaning
+
+- Continuously learn cutting\-edge AI algorithms, reproduce and optimize classic deep learning network structures
 
 ## My Projects
-### [Project Name 1]
-![Project 1](https://picsum.photos/400/200)
-- **Description**: [Brief description of the project]
-- **Technologies Used**: [List the technologies]
-- **Link**: [Link to the project repository]
 
-### [Project Name 2]
-![Project 2](https://picsum.photos/400/200)
-- **Description**: [Brief description of the project]
-- **Technologies Used**: [List the technologies]
-- **Link**: [Link to the project repository]
+### \[Machine Learning Data Analysis Project\]
+
+\!\[Project 1\]\(https://picsum\.photos/400/200\)
+
+- **Description**: An automated data analysis and prediction system based on machine learning, completing the entire process of data cleaning, feature engineering, model training and visualization
+
+- **Technologies Used**: Python, Pandas, NumPy, Scikit\-learn, Matplotlib
+
+- **Link**: \[Link to the project repository\]
+
+### \[Deep Learning Image Recognition Project\]
+
+\!\[Project 2\]\(https://picsum\.photos/400/200\)
+
+- **Description**: Build a convolutional neural network based on PyTorch to realize image classification/object detection tasks, supporting GPU\-accelerated training and model inference
+
+- **Technologies Used**: Python, PyTorch, OpenCV, TensorFlow
+
+- **Link**: \[Link to the project repository\]
 
 ## Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FemtoRhythm&show_icons=true&theme=radical)
+
+\!\[GitHub Stats\]\(https://github\-readme\-stats\.vercel\.app/api?username=FemtoRhythm\&amp;show\_icons=true\&amp;theme=radical\)
 
 ## Get in Touch
-- **Email**: [Your Email Address]
-- **LinkedIn**: [Your LinkedIn Profile Link]
-- **Twitter**: [Your Twitter Profile Link]
 
----
+- **Email**: chengee@qq.com
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=FemtoRhythm.FemtoRhythm" alt="Visitor Count">
-</p>
+- **LinkedIn**: \[Your LinkedIn Profile Link\]
+
+- **Twitter**: \[Your Twitter Profile Link\]
+
+- **GitHub**: https://github\.com/FemtoRhythm
+
+\-\-\-
+
