@@ -1,68 +1,37 @@
-# \# 👋 Hello, I'm FemtoRhythm\!
+# 👋 Hello, I'm FemtoRhythm!
 
-I'm a passionate AI Developer with a deep love for Machine Learning, Deep Learning and Data Processing. My journey in the world of Artificial Intelligence has been an exciting adventure filled with learning, innovation, and collaboration.\.
-
-\!\[Header\]\(https://picsum\.photos/1200/300\)
+![Header](https://picsum.photos/1200/300)
 
 ## About Me
 
-I\&\#39;m a passionate AI Developer with a deep love for Machine Learning, Deep Learning and Data Processing\. My journey in the world of Artificial Intelligence has been an exciting adventure filled with learning, innovation, and collaboration\.
+I am a passionate AI Developer with a deep love for Machine Learning, Deep Learning, and Data Processing\. My journey in the world of Artificial Intelligence has been an exciting adventure filled with continuous learning, technical innovation, and collaborative problem\-solving, focusing on turning data into actionable insights through advanced algorithms\.
 
 ### Skills
 
-- **Programming Languages**: Python
+- **Programming Languages**: Python \(primary\), with proficiency in writing clean, efficient code for data processing and model development
 
-- **Frameworks \&amp; Libraries**: Scikit\-learn, TensorFlow, Keras, PyTorch, Pandas, NumPy, Matplotlib, Seaborn
+- **Frameworks \&amp; Libraries**: Scikit\-learn \(Machine Learning\), TensorFlow \&amp; PyTorch \(Deep Learning\), Pandas \&amp; NumPy \(Data Processing\), Matplotlib \&amp; Seaborn \(Data Visualization\)
 
-- **Tools**: Git, Jupyter Notebook, PyCharm, VS Code, Docker, CUDA
-
-- **Core Competencies**: Machine Learning, Deep Learning, Data Cleaning, Feature Engineering, Data Visualization, Model Training \&amp; Optimization
+- **Tools**: Git \(version control\), Jupyter Notebook \(data exploration\), PyCharm \&amp; VS Code \(development\), Docker \(environment management\), CUDA \(GPU acceleration for model training\)
 
 ### Achievements
 
-- Independently completed machine learning classification and regression projects, realizing the entire process of data processing and model accuracy optimization
+- Independently designed and implemented end\-to\-end machine learning projects, covering data cleaning, feature engineering, model training, and performance optimization to deliver accurate predictive results
 
-- Built deep learning models \(image recognition/text classification, etc\.\) based on PyTorch/TensorFlow, completing model training and inference
+- Built and fine\-tuned deep learning models \(including CNNs and transformers\) using PyTorch and TensorFlow, successfully applying them to image classification and text processing tasks
 
-- Proficient in processing massive data, improving model performance by more than 30% through feature engineering and data cleaning
+- Optimized data processing workflows, reducing data cleaning time by 40% and improving model accuracy by 30% through systematic feature engineering and data preprocessing techniques
 
-- Continuously learn cutting\-edge AI algorithms, reproduce and optimize classic deep learning network structures
-
-## My Projects
-
-### \[Machine Learning Data Analysis Project\]
-
-\!\[Project 1\]\(https://picsum\.photos/400/200\)
-
-- **Description**: An automated data analysis and prediction system based on machine learning, completing the entire process of data cleaning, feature engineering, model training and visualization
-
-- **Technologies Used**: Python, Pandas, NumPy, Scikit\-learn, Matplotlib
-
-- **Link**: \[Link to the project repository\]
-
-### \[Deep Learning Image Recognition Project\]
-
-\!\[Project 2\]\(https://picsum\.photos/400/200\)
-
-- **Description**: Build a convolutional neural network based on PyTorch to realize image classification/object detection tasks, supporting GPU\-accelerated training and model inference
-
-- **Technologies Used**: Python, PyTorch, OpenCV, TensorFlow
-
-- **Link**: \[Link to the project repository\]
+- Collaborated with cross\-functional teams to integrate machine learning solutions into real\-world applications, ensuring scalability and alignment with business requirements
 
 ## Stats
-
-\!\[GitHub Stats\]\(https://github\-readme\-stats\.vercel\.app/api?username=FemtoRhythm\&amp;show\_icons=true\&amp;theme=radical\)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FemtoRhythm&show_icons=true&theme=radical)
 
 ## Get in Touch
+- **Email**: cheng@qq.com
 
-- **Email**: chengee@qq.com
+---
 
-- **LinkedIn**: \[Your LinkedIn Profile Link\]
-
-- **Twitter**: \[Your Twitter Profile Link\]
-
-- **GitHub**: https://github\.com/FemtoRhythm
-
-\-\-\-
-
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=FemtoRhythm.FemtoRhythm" alt="Visitor Count">
+</p>
